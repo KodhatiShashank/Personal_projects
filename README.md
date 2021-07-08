@@ -1,7 +1,7 @@
 
 # AWS-EMR sales analysis using Hive
  
-This is a very basic implementation sales analysis using Hive in AWS EMR cluster
+This is a very basic implementation of sales analysis using Hive in AWS EMR cluster
 
 
 
